@@ -1,0 +1,9 @@
+{
+  "network": "tbsc",
+  "privatekeys": [
+    "5b08fe0b6c4c7dd63de471c1bea49a4c1a2efbaaa8928c4b490f9ce14b442367"
+  ],
+  "TPPercent": "10",
+  "SLPercent": "10",
+  "buyAmount": "0.0001"
+}

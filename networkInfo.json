@@ -1,0 +1,20 @@
+{
+  "bsc": {
+    "wss": "wss://lingering-frequent-borough.bsc.discover.quiknode.pro/a9e46f40187f3d93660bfae6e1d7064c44802853/",
+    "tokenTracker": "dexscreener.com",
+    "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+    "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+    "currency": "WBNB",
+    "wbnbAddress": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "busdAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  "tbsc": {
+    "wss": "wss://proud-lingering-shadow.bsc-testnet.discover.quiknode.pro/0ca373bdcc763b3404937c3cc1eac9b139190e24/",
+    "tokenTracker": "dexscreener.com",
+    "router": "0xde2db97d54a3c3b008a097b2260633e6ca7db1af",
+    "factory": "0x46E9aD48575d08072E9A05a9BDE4F22973628A8E",
+    "currency": "WBNB",
+    "wbnbAddress": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+    "busdAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee"
+  }
+}
